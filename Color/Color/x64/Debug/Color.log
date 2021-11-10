@@ -1,0 +1,5 @@
+﻿  Colors.cpp
+C:\Users\dzhum\Documents\GitHub\ColorC\Color\Color\Colors.cpp(24,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\dzhum\Documents\GitHub\ColorC\Color\Color\Colors.cpp(29,15): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\dzhum\Documents\GitHub\ColorC\Color\Color\Colors.cpp(63,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Color.vcxproj -> C:\Users\dzhum\Documents\GitHub\ColorC\Color\x64\Debug\Color.exe

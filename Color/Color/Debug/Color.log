@@ -1,0 +1,4 @@
+﻿  Color.cpp
+  FindColor.cpp
+E:\openGPU\Новая папка\Color\Color\FindColor.cpp(1,10): fatal error C1083: Не удается открыть файл включение: opencv2/imgcodecs.hpp: No such file or directory,
+  Создание кода...
